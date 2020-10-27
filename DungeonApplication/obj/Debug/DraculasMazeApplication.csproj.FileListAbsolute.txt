@@ -1,0 +1,12 @@
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\DungeonApplication\DungeonApplication\obj\Debug\DraculasMazeApplication.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\DungeonApplication\DungeonApplication\obj\Debug\DraculasMazeApplication.csprojAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\DungeonApplication\DungeonApplication\bin\Debug\DungeonApplication.exe.config
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\DungeonApplication\DungeonApplication\bin\Debug\DungeonApplication.exe
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\DungeonApplication\DungeonApplication\bin\Debug\DungeonApplication.pdb
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\DungeonApplication\DungeonApplication\bin\Debug\DungeonClassLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\DungeonApplication\DungeonApplication\bin\Debug\DungeonClassLibrary.pdb
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\DungeonApplication\DungeonApplication\obj\Debug\DraculasMazeApplication.csproj.CopyComplete
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\DungeonApplication\DungeonApplication\obj\Debug\DungeonApplication.exe
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\DungeonApplication\DungeonApplication\obj\Debug\DungeonApplication.pdb
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\DungeonApplication\DungeonApplication\bin\Debug\MonsterLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\DungeonApplication\DungeonApplication\bin\Debug\MonsterLibrary.pdb

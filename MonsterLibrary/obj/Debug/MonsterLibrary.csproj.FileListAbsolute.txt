@@ -1,0 +1,9 @@
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\DungeonApplication\MonsterLibrary\bin\Debug\MonsterLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\DungeonApplication\MonsterLibrary\bin\Debug\MonsterLibrary.pdb
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\DungeonApplication\MonsterLibrary\bin\Debug\DungeonClassLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\DungeonApplication\MonsterLibrary\bin\Debug\DungeonClassLibrary.pdb
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\DungeonApplication\MonsterLibrary\obj\Debug\MonsterLibrary.csprojAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\DungeonApplication\MonsterLibrary\obj\Debug\MonsterLibrary.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\DungeonApplication\MonsterLibrary\obj\Debug\MonsterLibrary.csproj.CopyComplete
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\DungeonApplication\MonsterLibrary\obj\Debug\MonsterLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\DungeonApplication\MonsterLibrary\obj\Debug\MonsterLibrary.pdb
